@@ -1,7 +1,4 @@
-{
-  mkTarget,
-  ...
-}:
+{ mkTarget, ... }:
 mkTarget {
   name = "go DiskUsage()";
   humanName = "go DiskUsage()";
